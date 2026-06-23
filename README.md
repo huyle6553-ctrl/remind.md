@@ -175,4 +175,3 @@ Thực hiện mỗi khi cần nhận diện:
 
 ---
 
-*Tài liệu kỹ thuật — Nhóm 1 | Đại học Công nghiệp Hà Nội | 2026*
